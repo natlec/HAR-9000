@@ -1,6 +1,6 @@
 # Human Activity Recognition (HAR-9000)
 
-HAR-9000 is an IoT application which recognises human activity using the KNN and SVC machine learning models. The following documentation explains which packages and extensions will need to be installed prior to running this application.
+HAR-9000 is an IoT application which recognises human activity using the KNN and SVM machine learning models. The following documentation explains which packages and extensions will need to be installed prior to running this application.
 
 ## Dataset usage
 
