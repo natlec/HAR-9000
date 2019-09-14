@@ -4,13 +4,7 @@ An IoT application which recognises human activity using the KNN and SVC machine
 
 ## Dataset usage
 
-This repository uses [Git LFS](https://git-lfs.github.com) to manage large dataset files, you will need to download the [Git LFS command line extension](https://github.com/git-lfs/git-lfs/releases/download/v2.8.0/git-lfs-windows-v2.8.0.exe) and run the following command in the terminal: 
-
-```
-git lfs install
-```
-
-Finally, you will then need to download the [DaLiAc database](https://mad-nas.cs.fau.de:8081/Research/ActivityNet/daliac.zip) and export all `dataset_x.txt` files into a folder named `datasets`.
+This application uses the [DaLiAc](https://www.mad.tf.fau.de/research/activitynet/daliac-daily-life-activities/) (Daily Life Activities) database, you will need to download the [DaLiAc database](https://mad-nas.cs.fau.de:8081/Research/ActivityNet/daliac.zip) and export all `dataset_x.txt` files into a folder named `datasets` before running any code. You may also use other datasets so long as it follows the same convention as the DaLiAc database and is stored in the same way.
 
 ## Install
 
